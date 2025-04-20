@@ -1,0 +1,2 @@
+from .crackmim import CrackMiM
+
